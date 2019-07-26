@@ -1,18 +1,17 @@
 {
-		"name": "TinyWireS",
-		"version": "1.0.0",
-		"frameworks": "AVR",
-		"license": "MIT",
-		"keywords": "I2C, WIRE, ATtiny, USI",
-		"description": "ATtiny I2C Slave Library",
-		"downloadUrl": "https://github.com/nadavmatalon/TinyWireS/archive/master.zip",
-		"maintainers":
-		{
-		        "name": "Nadav Matalon"
-		},
-		"repository":
-		{
-		    "type": "git",
-		    "url": "https://github.com/NadavMatalon/TinyWireS"
-		}
+    "name": "TinyWireS",
+    "version": "1.0.1",
+    "frameworks": "arduino",
+    "platforms": "atmelavr",
+    "license": "MIT",
+    "keywords": "I2C, WIRE, ATtiny, USI",
+    "description": "ATtiny I2C Slave Library",
+    "downloadUrl": "https://github.com/nadavmatalon/TinyWireS/archive/master.zip",
+    "maintainers": {
+        "name": "Nadav Matalon"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/NadavMatalon/TinyWireS"
+    }
 }
